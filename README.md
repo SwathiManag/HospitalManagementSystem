@@ -4,15 +4,15 @@
 The main objective of the system is to computerize the maintenance of the patient details and billing section in the hosiptal. It also includes the details about the laboratory checkups.
 
 ## Tools and technologies used
-Spring
-JSP
-Hibernate
-IDE - STS/Eclipse
-JDK - 1.8 or later
-Apache Tomcat
-JSTL
-Servlet API
-MySQL
+- Spring
+- JSP
+- Hibernate
+- IDE - STS/Eclipse
+- JDK - 1.8 or later
+- Apache Tomcat
+- JSTL
+- Servlet API
+- MySQL
 
 ## Overview
 In the proposed system, the administrator can insert, delete and modify the patient records as per the requirements. The laboratory reports and billing details can be easily maintained in this system. This project will help to smoother the process of the hospital activities.
